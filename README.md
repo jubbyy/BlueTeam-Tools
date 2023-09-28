@@ -39,8 +39,8 @@ Some of the tools may be specifically designed for blue teaming, while others ar
     <ul>
         <ul>
             <li><b><a href="#nmap">Nmap</a></b><i> Network scanner</i></li>
-            <li><b><a href="#nuclei">Nuclei</a></b><i> Vulnerability scanner - https://github.com/edoardottt/cariddi </i></li>
-	    <li><b><a href="#cariddi">Cariddi</a></b><i> Scanner for finding api endpoints,secrets, keys </li>	  
+            <li><b><a href="#nuclei">Nuclei</a></b><i> Vulnerability scanner  </i></li>
+	    <li><b><a href="#cariddi">Cariddi</a></b><i> Scanner for finding api endpoints,secrets, keys - https://github.com/edoardottt/cariddi </li>	  
             <li><b><a href="#masscan">Masscan</a></b><i> Fast network scanner</i></li>
             <li><b><a href="#angry-ip-scanner">Angry IP Scanner</a></b><i> IP/port scanner</i></li>
             <li><b><a href="#zmap">ZMap</a></b><i> Large network scanner</i></li>
